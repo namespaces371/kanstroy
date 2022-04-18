@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'mosstroy',
+  appId: 'io.kanstroy.starter',
+  appName: 'kanstroy',
   webDir: 'dist',
   bundledWebRuntime: false
 };
